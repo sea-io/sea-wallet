@@ -13,7 +13,6 @@
 */
 // SPDX-License-Identifier: GPL-3.0
 /** @file SHA3.cpp
- * @author Gav Wood <i@gavwood.com>
  * @date 2014
  */
 
